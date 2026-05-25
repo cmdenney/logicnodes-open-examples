@@ -1,3 +1,5 @@
+<img src="https://logicnodes.io/logo-black.jpg" alt="LogicNodes" width="80" />
+
 # LogicNodes Open Examples
 
 Welcome to the **LogicNodes Open Examples** repository! This repository contains the source code for our top 10 most requested, high-value deterministic microservices. These examples demonstrate how you can fetch real-time data from various providers (CoinGecko, DefiLlama, DexScreener, Alchemy, Helius) and return deterministic JSON structures compatible with the x402 payment protocol.
